@@ -1,6 +1,6 @@
 # PDF Karakter Sayacı
 
-Bu Python uygulaması, bir PDF dosyasındaki karakter sayısını hesaplar ve 1 milyon karaktere ulaşıldığında kullanıcıya görsel bir bildirim sunar. Uygulama, kullanıcıya PDF dosyasını seçme imkanı veren basit bir arayüz (GUI) ile çalışır.
+Bu Python uygulaması, bir PDF dosyasındaki karakter sayısını hesaplar. Karakter sayısı 1 milyon üzerinde ise,  kullanıcıya hangi sayfada  1 milyon karaktere ulaşıldığını görsel bir bildirim ile sunar. Uygulama, kullanıcıya PDF dosyasını seçme imkanı veren basit bir arayüz (GUI) ile çalışır. Pdf dil çevirisinde 1 milyon sınırı bildirir.
 
 ## Özellikler
 
